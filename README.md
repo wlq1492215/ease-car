@@ -1,1 +1,1 @@
-# ease-car
+# easy-car
