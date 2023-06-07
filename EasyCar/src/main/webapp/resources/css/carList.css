@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+/* table line */
+table {
+	border-collapse : collapse;
+}
+
+/* a태그 */
+a{
+	text-decoration : none;
+	text-decoration-line : none;
+	color: black;
+}
