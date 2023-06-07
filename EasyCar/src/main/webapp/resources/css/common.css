@@ -1,3 +1,4 @@
+@charset "UTF-8";
 body{
     font-size: 16px;
     font-weight: 400;
@@ -172,7 +173,7 @@ header .search input{
 header .search .search-icon{
   width: 40px;
   height: 44px;
-  background-image: url("../Images/header_search.svg");
+  background-image: url("../img/header_search.svg");
   background-repeat: no-repeat;
   background-position: center;
   position: absolute;
@@ -183,7 +184,7 @@ header .search .search-icon{
 header .search .search-closer{
   width: 40px;
   height: 44px;
-  background-image: url("../Images/header_close.svg");
+  background-image: url("../img/header_close.svg");
   background-repeat: no-repeat;
   background-position: center;
   position: absolute;
